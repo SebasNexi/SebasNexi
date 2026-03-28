@@ -5,22 +5,27 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me / Sobre mi***
 
-I'm a Systems and Computer Engineering student, halfway through my degree. I'm currently deepening my knowledge of front-end and back-end development, aiming to build complete and functional solutions. I'm passionate about continuous learning and creating useful, innovative, and creative projects.
+(*English Version*)
+
+I am a young Systems and Computer Engineering student, halfway through my degree. I am currently deepening my knowledge of front-end and back-end development, with the goal of creating complete and functional solutions. I am passionate about continuous learning and creating useful, innovative, and creative projects.
 
 
 - 🌱 I’m currently learning ...
   - Python
   - Angular
+  
 
-Soy estudiante de Ingeniería de Sistemas e Informática, cursando la mitad de mi carrera. Actualmente estoy profundizando mis conocimientos en desarrollo front-end y back-end, con el objetivo de crear soluciones completas y funcionales. Me apasiona el aprendizaje continuo y la creación de proyectos útiles, innovadores y creativos.
+(*Spanish Version*)
+
+Soy estudiante de Ingeniería de Sistemas e Informática, y estoy cursando aproximadamente la mitad de mi carrera. Actualmente estoy profundizando mis conocimientos en desarrollo front-end y back-end, con el objetivo de crear soluciones completas y funcionales. Me apasiona el aprendizaje continuo y la creación de proyectos útiles, innovadores y creativos.
 
 - 🌱 Actualmente estoy aprendiendo...
   - Python
   - Angular
 
-## My Skills Include
+## My skills and knowledge include / Mis habilidades y conocimientos incluyen
 
-<h4> Languages </h4>
+<h4> Languages / Lenguajes</h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -43,7 +48,7 @@ Soy estudiante de Ingeniería de Sistemas e Informática, cursando la mitad de m
 </span>
 
 
-<h4> Other Tools and Technologies </h4>
+<h4> Other Tools and Technologies / Otras herramientas y tecnologías</h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
