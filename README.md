@@ -12,7 +12,11 @@ I'm a Systems and Computer Engineering student, halfway through my degree. I'm c
   - Python
   - Angular
 
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+Soy estudiante de Ingeniería de Sistemas e Informática, cursando la mitad de mi carrera. Actualmente estoy profundizando mis conocimientos en desarrollo front-end y back-end, con el objetivo de crear soluciones completas y funcionales. Me apasiona el aprendizaje continuo y la creación de proyectos útiles, innovadores y creativos.
+
+- 🌱 Actualmente estoy aprendiendo...
+  - Python
+  - Angular
 
 ## My Skills Include
 
@@ -28,16 +32,21 @@ I'm a Systems and Computer Engineering student, halfway through my degree. I'm c
 </span>
 
 
-<h4> Other Tools and Technologies </h4>
+<h4> DataBase</h4>
 <span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 
 
 
 
 </span>
 
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
+</span>
